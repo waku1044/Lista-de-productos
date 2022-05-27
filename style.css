@@ -52,7 +52,7 @@ button{
 	margin-left: 50px;
 }
 li{
-
+	padding: 0px;
 	text-transform: uppercase;
 	border-bottom: 2px solid #000;
 
