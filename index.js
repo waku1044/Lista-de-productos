@@ -17,12 +17,5 @@ $(function(){
 	})
 
 });
-// const btn =  document.querySelector('#boton');
-// const input = document.querySelector('#entrada');
 
-// btn.addEventListener('click', ()=>{
-// 	if(input.value == ''){
-// 		alert('Ingrese un producto.')
-// 	}
-// })
 

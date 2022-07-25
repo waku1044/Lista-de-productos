@@ -1,5 +1,5 @@
 *{
-	margin:0px;
+	margin:0;
 	padding: 0;
 }
 h1{	
@@ -28,7 +28,7 @@ label{
 	font-family: Arial;
 }
 input{
-	margin-bottom: 20px;
+	margin: 20px auto;
 	height: 30px;
 	border: 2px solid purple;
 	font-size: 18px;
@@ -55,5 +55,6 @@ li{
 	padding: 0px;
 	text-transform: uppercase;
 	border-bottom: 2px solid #000;
+	text-align: center;
 
 }
